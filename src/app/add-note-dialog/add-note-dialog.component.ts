@@ -32,7 +32,7 @@ export class AddNoteDialogComponent {
       marked: false,
       id: '',
     };
-    this.noteService.addNote(note);
+    this.noteService.addNote(note, 'notes');
     //beachte das closeDialog() zum Schluss kommt, denn es leert die Variablen
     this.closeDialog();
   }
