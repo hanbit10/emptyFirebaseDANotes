@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "staging": "danote-ff429",
+    "default": "danote-ff429"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
